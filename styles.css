@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.mild-grey {
+  background-color: azure;
+}
+
+.container p.text-white {
+	text-align: center;
+}
+
+div .conatiner .list-group li{
+	display: block;
+	margin: none !important;
+}
